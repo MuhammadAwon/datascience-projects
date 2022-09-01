@@ -1,4 +1,4 @@
-# DataQuest Projects
+# Data Science Projects
 
 These are the guided projects that I have worked on through the [DataQuest](https://www.dataquest.io/) platform. I'm still going through the curriculum of the [Data Scientist](https://www.dataquest.io/path/data-scientist/) career path and will keep updating the repository with new projects.
 
