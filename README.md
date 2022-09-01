@@ -4,8 +4,6 @@ These are the guided projects that I have worked on through the [DataQuest](http
 
 ## Contents
 
-#
-
 ### Data Analysis and Visualization
   
 - [**Analyzing NYC High School Data**](https://github.com/MuhammadAwon/datascience-projects/tree/main/Projects/analyzing-nyc-high-school-data): Analyze the New York City public schools data to find out what are the reasons causing unfair advantages to certain groups in the US educational system.
@@ -22,7 +20,5 @@ These are the guided projects that I have worked on through the [DataQuest](http
 - [**CIA Factbook Data Analysis using SQL**](https://github.com/MuhammadAwon/datascience-projects/tree/main/Projects/cia-factbook-data-analysis-using-sql):
 
 ## Current Project
-
-#
 
 I am working on the [CIA Factbook](https://github.com/MuhammadAwon/datascience-projects/tree/main/Projects/cia-factbook-data-analysis-using-sql) project.
