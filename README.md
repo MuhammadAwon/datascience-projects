@@ -17,8 +17,7 @@ These are the guided projects that I have worked on through the [DataQuest](http
 
 ### SQL
 
-- [**CIA Factbook Data Analysis using SQL**](https://github.com/MuhammadAwon/datascience-projects/tree/main/Projects/cia-factbook-data-analysis-using-sql):
+- [**CIA Factbook Data Analysis using SQL**](https://github.com/MuhammadAwon/datascience-projects/tree/main/Projects/cia-factbook-data-analysis-using-sql): The CIA factbook is an annual publication of the US Central Intelligence Agency, provides basic intelligence by summarizing information about worldwide demographic and geographic data.
 
 ## Current Project
 
-I am working on the [CIA Factbook](https://github.com/MuhammadAwon/datascience-projects/tree/main/Projects/cia-factbook-data-analysis-using-sql) project.
