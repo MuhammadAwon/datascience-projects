@@ -21,3 +21,4 @@ These are the guided projects that I have worked on through the [DataQuest](http
 
 ## Current Project
 
+Chinook database model represents a digital media store, inculding tables for artists, albums, media tracks, invoices and customers.
