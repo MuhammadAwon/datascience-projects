@@ -1,3 +1,6 @@
 .ipynb_checkpoints
 
 env/
+
+Projects/reddit-api/.env
+Projects/reddit-api/access_token.ipynb
