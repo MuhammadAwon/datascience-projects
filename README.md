@@ -27,3 +27,4 @@ These are the guided projects that I have worked on through the [DataQuest](http
 
 ### Data Science and Machine Learning
 
+- [**Predicting Heart Disease**](https://github.com/MuhammadAwon/datascience-projects/tree/main/Projects/predicting-heart-disease): This project aimed to develop a predictive model for heart disease detection using a provided dataset. After data cleaning and feature selection through correlation analysis, a KNN classifier was trained on selected features, achieving an 81.88% accuracy on the test set. While promising, further evaluation and refinement of the model may be necessary before implementation in a real-world healthcare setting.
